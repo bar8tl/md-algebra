@@ -4,7 +4,7 @@
 
 ## Capítulo 2 Operaciones ALgebraicas
 
-### Sección 2.3. ADICION
+### **Sección 2.3. ADICION**
 
 La adición es una operación que se caracteriza por los siguientes cinco
 postulados llamados *propiedades* o *leyes* de la adición.

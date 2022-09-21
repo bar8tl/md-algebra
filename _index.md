@@ -16,9 +16,9 @@
     1. [Introducción](ch02-01-introduccion.md)
     2. [Expresión algebraica, término, polinomio](ch02-02-expresion-algebraica-termino-polinomio.md)
     3. [Adición](ch02-03-adicion.md)
-    4. Sustracción
-    5. Multiplicación
-    6. Productos notables
+    4. [Sustracción](ch02-04-sustraccion.md)
+    5. [Multiplicación](ch02-05-multiplicacion.md)
+    6. [Productos notables](ch02-06-productos-notables.md)
     7. División
     8. Campo de números
     9. Factorización
